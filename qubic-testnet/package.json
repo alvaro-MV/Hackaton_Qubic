@@ -1,0 +1,21 @@
+{
+  "name": "qubic-testnet",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node qubic_transaction.ts"
+  },
+  "dependencies": {
+    "@qubic-lib/qubic-ts-library":"^0.1.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "@types/node": "^20.4.1"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
